@@ -1,16 +1,8 @@
-# Topics in Software Engineering
+# Topics in Software Engineering - Project Proposal
+**Name:** Talike Bennett 
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+**Project Name:** Binote
 
-# Tools
-The tools that are installed with this devcontainer are:
+**Description:** There are a handful of applications and software available to teach people new languages. For this application, I would like to achieve the same goal but with a musical aspect to it. More specifically, this application will serve as a platform to teach people how to read and play music on a piano. The application can possibly be expanded to have a variety of instruments, but the piano will be the main one in use.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+**Primary Users:** This application will be designe₫ for people with an interest in music but not much experience with musical instruments. The target audience also includes people who have access to a laptop/desktop machine since I am thinking of implementing the application as a GUI.
